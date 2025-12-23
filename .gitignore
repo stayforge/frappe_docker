@@ -28,3 +28,6 @@ venv
 
 # NodeJS
 node_modules
+
+# test db-data
+db-data/
